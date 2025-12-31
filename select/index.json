@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "butterfly swimmer",
+  "base_artist": "School Food Punishment",
+  "createdAt": "2025-12-31T11:54:06.193791Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "butterfly swimmer",
+      "artist": "School Food Punishment",
+      "has_synced": true,
+      "path": "select/01_butterfly_swimmer_School_Food_Punishment.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "butterfly swimmer",
+      "artist": "School Food Punishment",
+      "has_synced": true,
+      "path": "select/02_butterfly_swimmer_School_Food_Punishment.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "butterfly swimmer-Q;indivi-Yusuke Tanaka Remix-",
+      "artist": "School Food Punishment",
+      "has_synced": false,
+      "path": "select/03_butterfly_swimmer-Q;indivi-Yusuke_Tanaka_Remix-_School_Food_Punishment.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "butterfly swimmer - Q;indivi-Yusuke Tanaka Remix",
+      "artist": "School Food Punishment",
+      "has_synced": false,
+      "path": "select/04_butterfly_swimmer_-_Q;indivi-Yusuke_Tanaka_Remix_School_Food_Punishment.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "butterfly swimmer -instrumental-",
+      "artist": "school food punishment",
+      "has_synced": true,
+      "path": "select/05_butterfly_swimmer_-instrumental-_school_food_punishment.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "butterfly swimmer–Q;indivi‐Yusuke Tanaka Remix–",
+      "artist": "school food punishment",
+      "has_synced": false,
+      "path": "select/06_butterfly_swimmer–Q;indivi‐Yusuke_Tanaka_Remix–_school_food_punishment.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "butterfly swimmer",
+      "artist": "school food punishment",
+      "has_synced": false,
+      "path": "select/pl_01_butterfly_swimmer_school_food_punishment.txt"
+    }
+  ]
+}
